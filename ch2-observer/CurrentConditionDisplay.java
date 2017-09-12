@@ -1,3 +1,6 @@
+/**
+ * 公告板实现
+ */
 public class CurrentConditionDisplay implements Observer,DisplayElement {
     private float temperature;
     private float humidity;
